@@ -115,3 +115,4 @@ yarn.lock
 *.iws
 *.iml
 
+.DS_store
